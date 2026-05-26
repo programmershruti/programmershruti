@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Pandey</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Frontend Engineer specializing in React.js, Next.js, and scalable web applications.</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmershruti&label=Profile%20views&color=0e75b6&style=flat" alt="programmershruti" /> </p>
