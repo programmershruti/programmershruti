@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmershruti&label=Profile%20views&color=0e75b6&style=flat" alt="programmershruti" /> </p>
 
-- 🌱I’m currently learning **Competitive coding and Backend development**
+🌱 Exploring Next.js, backend development, and scalable frontend engineering.
 
-- 👀I’m interested in **Coding,Learning And Working on New Technology**
+👀 Passionate about building user-centric web applications and learning modern technologies.
 
 - 📫 How to reach me **shrutipandeykld123@gmail.com**
 
